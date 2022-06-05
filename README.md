@@ -8,4 +8,4 @@ I'm Subhraneel Haldar
  
 Have a look at my PORTFOLIO ( https://subhraneel77.github.io/Subhro7/ ) and contact me from there!
 
-<a title="Portfolio, subhraneel.in" src=" https://subhraneel77.github.io/Subhro7/" width="130" /></a>
+[My Portfolioi]( https://subhraneel77.github.io/Subhro7/).
